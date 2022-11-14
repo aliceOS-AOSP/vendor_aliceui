@@ -26,10 +26,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GameSpace
 
-# xdroid Additions
-PRODUCT_PACKAGES += \
-    xdCore
-
 # Dex preopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI \
