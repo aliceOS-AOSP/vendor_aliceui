@@ -15,7 +15,7 @@
 
 # Overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
-    $(XDUI_PATH)/overlay
+    $(aliceUI_PATH)/overlay
 
 PRODUCT_PACKAGE_OVERLAYS += \
-    $(XDUI_PATH)/overlay/common
+    $(aliceUI_PATH)/overlay/common
